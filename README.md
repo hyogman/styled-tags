@@ -63,4 +63,7 @@ function MyContainer({ children, justifyContent }) {
   </MyContainer>
 
 ```
+### Todo
+
+Add more HTML tags and animations. Lib is mainly an experiment and work in progress...
 
