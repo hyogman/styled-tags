@@ -41,7 +41,7 @@ export default App;
 ```
 Note that psuedo and media selectors have their own prop fields. 
 
-You can also have reusabiblity by simpling wrapping your inline styled tags with in a React component and pass props or children for dynamic customizability.
+You can also have reusability by simpling wrapping your inline styled tags with in a React component and pass props or children for dynamic customizability.
 
 ```js
 function MyContainer({ children, justifyContent }) {
